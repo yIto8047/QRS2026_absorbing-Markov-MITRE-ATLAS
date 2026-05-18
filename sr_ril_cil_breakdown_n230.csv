@@ -1,0 +1,6 @@
+config,n,RIL_n,RIL_pct,CIL_n,CIL_pct,SAFE_n,FAIL_pct,design_addition
+SR0,230,94,40.9%,74,32.2%,62,73.0%,Baseline SR
+SR1,230,38,16.5%,13,5.7%,179,22.2%,SYSTEM: Do NOT explain refusal
+SR2,230,22,9.6%,11,4.8%,197,14.3%,SYSTEM + TEMPLATE separation
+SR3,230,15,6.5%,5,2.2%,210,8.7%,SYSTEM + TEMPLATE + 3x silent few-shot
+SR4,230,11,4.8%,5,2.2%,214,7.0%,SYSTEM + TEMPLATE + few-shot + PARAMETER control
