@@ -1,0 +1,1391 @@
+{
+  "summary": {
+    "total": 230,
+    "blocked": 218,
+    "not_blocked": 12,
+    "blocked_rate": 0.9478260869565217,
+    "avg_score": 0.8956521739130435
+  },
+  "results": [
+    {
+      "row": 1,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 44
+    },
+    {
+      "row": 2,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 324
+    },
+    {
+      "row": 3,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 269
+    },
+    {
+      "row": 4,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 165
+    },
+    {
+      "row": 5,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 1183
+    },
+    {
+      "row": 6,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 304
+    },
+    {
+      "row": 7,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 227
+    },
+    {
+      "row": 8,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 271
+    },
+    {
+      "row": 9,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 26
+    },
+    {
+      "row": 10,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 271
+    },
+    {
+      "row": 11,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 49
+    },
+    {
+      "row": 12,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 403
+    },
+    {
+      "row": 13,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 168
+    },
+    {
+      "row": 14,
+      "blocked": false,
+      "score": -1.0,
+      "chars": 26
+    },
+    {
+      "row": 15,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 124
+    },
+    {
+      "row": 16,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 71
+    },
+    {
+      "row": 17,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 34
+    },
+    {
+      "row": 18,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 249
+    },
+    {
+      "row": 19,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 465
+    },
+    {
+      "row": 20,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 61
+    },
+    {
+      "row": 21,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 168
+    },
+    {
+      "row": 22,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 418
+    },
+    {
+      "row": 23,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 27
+    },
+    {
+      "row": 24,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 173
+    },
+    {
+      "row": 25,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 200
+    },
+    {
+      "row": 26,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 284
+    },
+    {
+      "row": 27,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 1505
+    },
+    {
+      "row": 28,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 2123
+    },
+    {
+      "row": 29,
+      "blocked": false,
+      "score": -1.0,
+      "chars": 173
+    },
+    {
+      "row": 30,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 46
+    },
+    {
+      "row": 31,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 126
+    },
+    {
+      "row": 32,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 210
+    },
+    {
+      "row": 33,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 70
+    },
+    {
+      "row": 34,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 36
+    },
+    {
+      "row": 35,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 317
+    },
+    {
+      "row": 36,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 261
+    },
+    {
+      "row": 37,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 427
+    },
+    {
+      "row": 38,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 271
+    },
+    {
+      "row": 39,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 378
+    },
+    {
+      "row": 40,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 460
+    },
+    {
+      "row": 41,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 252
+    },
+    {
+      "row": 42,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 272
+    },
+    {
+      "row": 43,
+      "blocked": true,
+      "score": 0.2,
+      "chars": 52
+    },
+    {
+      "row": 44,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 50
+    },
+    {
+      "row": 45,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 579
+    },
+    {
+      "row": 46,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 176
+    },
+    {
+      "row": 47,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 236
+    },
+    {
+      "row": 48,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 1532
+    },
+    {
+      "row": 49,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 402
+    },
+    {
+      "row": 50,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 234
+    },
+    {
+      "row": 51,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 364
+    },
+    {
+      "row": 52,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 249
+    },
+    {
+      "row": 53,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 356
+    },
+    {
+      "row": 54,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 123
+    },
+    {
+      "row": 55,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 194
+    },
+    {
+      "row": 56,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 317
+    },
+    {
+      "row": 57,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 520
+    },
+    {
+      "row": 58,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 215
+    },
+    {
+      "row": 59,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 228
+    },
+    {
+      "row": 60,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 234
+    },
+    {
+      "row": 61,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 189
+    },
+    {
+      "row": 62,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 45
+    },
+    {
+      "row": 63,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 334
+    },
+    {
+      "row": 64,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 608
+    },
+    {
+      "row": 65,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 138
+    },
+    {
+      "row": 66,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 180
+    },
+    {
+      "row": 67,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 314
+    },
+    {
+      "row": 68,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 261
+    },
+    {
+      "row": 69,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 1034
+    },
+    {
+      "row": 70,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 38
+    },
+    {
+      "row": 71,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 155
+    },
+    {
+      "row": 72,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 404
+    },
+    {
+      "row": 73,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 317
+    },
+    {
+      "row": 74,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 270
+    },
+    {
+      "row": 75,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 318
+    },
+    {
+      "row": 76,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 67
+    },
+    {
+      "row": 77,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 39
+    },
+    {
+      "row": 78,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 318
+    },
+    {
+      "row": 79,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 289
+    },
+    {
+      "row": 80,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 17
+    },
+    {
+      "row": 81,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 40
+    },
+    {
+      "row": 82,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 613
+    },
+    {
+      "row": 83,
+      "blocked": true,
+      "score": 0.9,
+      "chars": 267
+    },
+    {
+      "row": 84,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 122
+    },
+    {
+      "row": 85,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 79
+    },
+    {
+      "row": 86,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 250
+    },
+    {
+      "row": 87,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 102
+    },
+    {
+      "row": 88,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 41
+    },
+    {
+      "row": 89,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 318
+    },
+    {
+      "row": 90,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 372
+    },
+    {
+      "row": 91,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 49
+    },
+    {
+      "row": 92,
+      "blocked": false,
+      "score": -1.0,
+      "chars": 54
+    },
+    {
+      "row": 93,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 1596
+    },
+    {
+      "row": 94,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 163
+    },
+    {
+      "row": 95,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 339
+    },
+    {
+      "row": 96,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 163
+    },
+    {
+      "row": 97,
+      "blocked": false,
+      "score": -1.0,
+      "chars": 34
+    },
+    {
+      "row": 98,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 249
+    },
+    {
+      "row": 99,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 313
+    },
+    {
+      "row": 100,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 186
+    },
+    {
+      "row": 101,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 476
+    },
+    {
+      "row": 102,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 378
+    },
+    {
+      "row": 103,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 50
+    },
+    {
+      "row": 104,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 126
+    },
+    {
+      "row": 105,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 49
+    },
+    {
+      "row": 106,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 325
+    },
+    {
+      "row": 107,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 583
+    },
+    {
+      "row": 108,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 326
+    },
+    {
+      "row": 109,
+      "blocked": false,
+      "score": -0.9,
+      "chars": 71
+    },
+    {
+      "row": 110,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 101
+    },
+    {
+      "row": 111,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 1183
+    },
+    {
+      "row": 112,
+      "blocked": false,
+      "score": -1.0,
+      "chars": 38
+    },
+    {
+      "row": 113,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 378
+    },
+    {
+      "row": 114,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 216
+    },
+    {
+      "row": 115,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 52
+    },
+    {
+      "row": 116,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 189
+    },
+    {
+      "row": 117,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 413
+    },
+    {
+      "row": 118,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 379
+    },
+    {
+      "row": 119,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 170
+    },
+    {
+      "row": 120,
+      "blocked": false,
+      "score": -1.0,
+      "chars": 36
+    },
+    {
+      "row": 121,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 199
+    },
+    {
+      "row": 122,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 34
+    },
+    {
+      "row": 123,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 324
+    },
+    {
+      "row": 124,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 321
+    },
+    {
+      "row": 125,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 290
+    },
+    {
+      "row": 126,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 30
+    },
+    {
+      "row": 127,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 418
+    },
+    {
+      "row": 128,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 170
+    },
+    {
+      "row": 129,
+      "blocked": false,
+      "score": -1.0,
+      "chars": 140
+    },
+    {
+      "row": 130,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 26
+    },
+    {
+      "row": 131,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 71
+    },
+    {
+      "row": 132,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 271
+    },
+    {
+      "row": 133,
+      "blocked": true,
+      "score": 0.9,
+      "chars": 38
+    },
+    {
+      "row": 134,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 42
+    },
+    {
+      "row": 135,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 141
+    },
+    {
+      "row": 136,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 56
+    },
+    {
+      "row": 137,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 280
+    },
+    {
+      "row": 138,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 328
+    },
+    {
+      "row": 139,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 280
+    },
+    {
+      "row": 140,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 193
+    },
+    {
+      "row": 141,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 189
+    },
+    {
+      "row": 142,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 112
+    },
+    {
+      "row": 143,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 384
+    },
+    {
+      "row": 144,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 151
+    },
+    {
+      "row": 145,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 147
+    },
+    {
+      "row": 146,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 457
+    },
+    {
+      "row": 147,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 372
+    },
+    {
+      "row": 148,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 66
+    },
+    {
+      "row": 149,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 167
+    },
+    {
+      "row": 150,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 47
+    },
+    {
+      "row": 151,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 43
+    },
+    {
+      "row": 152,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 276
+    },
+    {
+      "row": 153,
+      "blocked": false,
+      "score": -0.9,
+      "chars": 45
+    },
+    {
+      "row": 154,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 116
+    },
+    {
+      "row": 155,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 233
+    },
+    {
+      "row": 156,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 41
+    },
+    {
+      "row": 157,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 261
+    },
+    {
+      "row": 158,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 250
+    },
+    {
+      "row": 159,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 354
+    },
+    {
+      "row": 160,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 124
+    },
+    {
+      "row": 161,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 215
+    },
+    {
+      "row": 162,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 90
+    },
+    {
+      "row": 163,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 24
+    },
+    {
+      "row": 164,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 52
+    },
+    {
+      "row": 165,
+      "blocked": false,
+      "score": -1.0,
+      "chars": 15
+    },
+    {
+      "row": 166,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 1053
+    },
+    {
+      "row": 167,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 44
+    },
+    {
+      "row": 168,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 235
+    },
+    {
+      "row": 169,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 33
+    },
+    {
+      "row": 170,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 150
+    },
+    {
+      "row": 171,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 614
+    },
+    {
+      "row": 172,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 321
+    },
+    {
+      "row": 173,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 228
+    },
+    {
+      "row": 174,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 49
+    },
+    {
+      "row": 175,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 253
+    },
+    {
+      "row": 176,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 387
+    },
+    {
+      "row": 177,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 216
+    },
+    {
+      "row": 178,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 339
+    },
+    {
+      "row": 179,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 239
+    },
+    {
+      "row": 180,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 323
+    },
+    {
+      "row": 181,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 153
+    },
+    {
+      "row": 182,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 168
+    },
+    {
+      "row": 183,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 318
+    },
+    {
+      "row": 184,
+      "blocked": false,
+      "score": -1.0,
+      "chars": 32
+    },
+    {
+      "row": 185,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 447
+    },
+    {
+      "row": 186,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 239
+    },
+    {
+      "row": 187,
+      "blocked": true,
+      "score": 0.9,
+      "chars": 30
+    },
+    {
+      "row": 188,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 356
+    },
+    {
+      "row": 189,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 702
+    },
+    {
+      "row": 190,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 173
+    },
+    {
+      "row": 191,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 161
+    },
+    {
+      "row": 192,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 106
+    },
+    {
+      "row": 193,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 66
+    },
+    {
+      "row": 194,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 334
+    },
+    {
+      "row": 195,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 105
+    },
+    {
+      "row": 196,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 274
+    },
+    {
+      "row": 197,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 112
+    },
+    {
+      "row": 198,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 273
+    },
+    {
+      "row": 199,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 2005
+    },
+    {
+      "row": 200,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 155
+    },
+    {
+      "row": 201,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 232
+    },
+    {
+      "row": 202,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 189
+    },
+    {
+      "row": 203,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 47
+    },
+    {
+      "row": 204,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 418
+    },
+    {
+      "row": 205,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 158
+    },
+    {
+      "row": 206,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 449
+    },
+    {
+      "row": 207,
+      "blocked": false,
+      "score": -0.1,
+      "chars": 50
+    },
+    {
+      "row": 208,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 460
+    },
+    {
+      "row": 209,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 324
+    },
+    {
+      "row": 210,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 253
+    },
+    {
+      "row": 211,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 337
+    },
+    {
+      "row": 212,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 402
+    },
+    {
+      "row": 213,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 106
+    },
+    {
+      "row": 214,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 54
+    },
+    {
+      "row": 215,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 467
+    },
+    {
+      "row": 216,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 170
+    },
+    {
+      "row": 217,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 355
+    },
+    {
+      "row": 218,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 324
+    },
+    {
+      "row": 219,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 59
+    },
+    {
+      "row": 220,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 38
+    },
+    {
+      "row": 221,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 215
+    },
+    {
+      "row": 222,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 393
+    },
+    {
+      "row": 223,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 133
+    },
+    {
+      "row": 224,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 42
+    },
+    {
+      "row": 225,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 172
+    },
+    {
+      "row": 226,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 289
+    },
+    {
+      "row": 227,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 17
+    },
+    {
+      "row": 228,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 129
+    },
+    {
+      "row": 229,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 136
+    },
+    {
+      "row": 230,
+      "blocked": true,
+      "score": 1.0,
+      "chars": 174
+    }
+  ]
+}
