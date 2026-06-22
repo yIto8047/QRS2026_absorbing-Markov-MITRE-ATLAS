@@ -4,6 +4,12 @@ Supplementary datasets, Modelfile configurations, and evaluation scripts for:
 
 > Y. Ito, T. Saito, R. Sasaki, "Unraveling Multi-Stage AI Threat Scenarios with MITRE ATLAS: A Probabilistic Risk Analysis Using Absorbing Markov Chains," QRS 2026 (CFSE Workshop), Springer LNCS.
 
+## ⚠️ Data correction notice
+
+During final verification, we found that the multi-turn evaluation input used for the S2 (Hijacking) → S3 (Extraction) chained attack scenario had, for configurations other than the VR0 baseline, drawn the prior-turn S2 response from a single shared model run rather than from each configuration's own genuine response. For the Silent Refusal (SR) paradigm, no first-party S2 Hijacking response data existed at all prior to this correction. This was found and corrected before publication; see the paper's Conclusion for full details. The corrected data is what's described below. Superseded files affected by this issue are kept in `archive_superseded/` for transparency rather than deleted, alongside a note on what was wrong with each.
+
+This means: **EXP-2, EXP-3, EXP-4, and the unguarded baseline rows of EXP-5/EXP-6 use corrected data.** EXP-0 (honeypot) and EXP-1 (single-stage Hijacking) are unaffected, since neither depends on S2 response context.
+
 ## Repository structure
 
 ```
